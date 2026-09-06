@@ -38,8 +38,8 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/maxtmiller/Common-Track.git
-   cd Common-Track
+   git clone https://github.com/maxtmiller/CommonTrack.git
+   cd CommonTrack
    ```
 2. Create and activate a virtual environment:
 
